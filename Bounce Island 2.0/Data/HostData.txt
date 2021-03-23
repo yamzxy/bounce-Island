@@ -1,0 +1,6 @@
+xBlueSpawn=20;
+yBlueSpawn=20;
+xRedSpawn=500;
+yRedSpawn=500;
+bulletSpeed=15;
+winningScore=5;

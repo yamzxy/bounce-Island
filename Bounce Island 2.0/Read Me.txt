@@ -1,0 +1,21 @@
+In bounce island 2 teams of players fight in rounds.
+the first team to reach 5 won rounds wins the game.
+
+Players win the round by knocking the entire enemy team off the island
+
+The host starts a game by pressing the host game button in the menu.
+When all the players have connected and joined a team the host can press S to start the game.
+
+Players must enter their username and ip adress.
+Once connected they must choose a team using A and D
+
+Controlls:
+WASD - Movement. When players bump into eachother they knock eachother back
+
+J - Shoot a bullet. When it hits an enemy it knocks them back.
+Each bullet a player is hit by knocks them back more and more until the end of the round.
+
+K - Double the players current move speed for a short timee
+
+L - Shoots a swapping bullet. When it hits an enemy the player will swap positions with them.
+

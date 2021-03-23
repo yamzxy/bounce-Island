@@ -1,0 +1,4 @@
+Name=Bounce Island
+Width=1280
+Height=720
+FullScreen=0

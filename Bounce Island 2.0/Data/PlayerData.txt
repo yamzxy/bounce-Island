@@ -1,0 +1,13 @@
+xArrowOffset=13
+yArrowOffset=30
+arrowRadius=50
+xUsernameOffset=-22
+yUsernameOffset=-15
+yImageOffset=-30
+radius=30
+fallingShrinkSpeed=0.05
+bulletCooldown=30
+speedDecay=0.98
+speed=0.2
+dashCooldown=100
+swapCooldown=120
